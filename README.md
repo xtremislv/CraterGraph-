@@ -3,6 +3,10 @@
 
 This project implements a robust pipeline for detecting craters in grayscale planetary or satellite imagery using a combination of texture-based region segmentation, edge detection, morphological analysis, and ellipse fitting.
 
+## 📺 Demo
+
+[![Watch the Demo Video](https://img.youtube.com/vi/fIbqoxuKyAw/0.jpg)](https://www.youtube.com/watch?v=fIbqoxuKyAw)
+
 ##  Overview
 
 The pipeline performs the following steps:
