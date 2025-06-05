@@ -82,4 +82,4 @@ The final output combines:
 
 ##  Author
 
-**Developed by:** *Lovy Verma (12140990), Harshil Tarang, S prothish Kumar ayyappa*  
+**Developed by:** *Lovy Verma (12140990)*
